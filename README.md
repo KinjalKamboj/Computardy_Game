@@ -8,13 +8,17 @@ CONTENTS OF FILE
 * Troubleshooting 
 * FAQ 
 ----------------------------- 
-# Project Name: Computardy 
+# Project Name: 
+Computardy 
 ----------------------------- 
-# Developer: Kinjal Kamboj 
+# Developer: 
+Kinjal Kamboj 
 ----------------------------- 
-# Requirements: A desktop system with the latest version of Eclipse IDE downloaded that supports GUI. 
+# Requirements: 
+* A desktop system with the latest version of Eclipse IDE downloaded that supports GUI. 
 ----------------------------- 
-# Introduction: This application is for anyone that wishes to brush up on their basic Grade 12 Computer Science skills in a Jeopardy game style where each question is worth different points. Categories covered for the twelve questions in this game are Variables, Expressions, Arrays, Loops, Inheritance, Polymorphism, Objects and Classes.
+# Introduction: 
+* This application is for anyone that wishes to brush up on their basic Grade 12 Computer Science skills in a Jeopardy game style where each question is worth different points. Categories covered for the twelve questions in this game are Variables, Expressions, Arrays, Loops, Inheritance, Polymorphism, Objects and Classes.
 ----------------------------- 
 # Troubleshooting:    
   * Ensure that the project runs on a Java environment.    
