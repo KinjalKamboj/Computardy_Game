@@ -9,10 +9,10 @@ CONTENTS OF FILE
 * FAQ 
 ----------------------------- 
 # Project Name: 
-Computardy 
+* Computardy 
 ----------------------------- 
 # Developer: 
-Kinjal Kamboj 
+* Kinjal Kamboj 
 ----------------------------- 
 # Requirements: 
 * A desktop system with the latest version of Eclipse IDE downloaded that supports GUI. 
